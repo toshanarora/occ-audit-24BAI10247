@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Swapnil  
-Roll Number: 24BCE10934  
+Name: Toshan Arora  
+Roll Number: 24BAI10247
 
 ## Chosen Software
 Python Programming Language
